@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "StrList.h"
-#include "StrList.c"
+
 
 int main() {
     StrList* stringList = StrList_alloc();
